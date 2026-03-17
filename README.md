@@ -1,7 +1,3 @@
-<p align="center">
-  <b>Aureine Music Box</b><br>
-  <i>real-time harmonic intelligence for expressive performance</i>
-</p>
 # ✧ Aureine Music Box
 
 > *a real-time harmonic intelligence system for expressive MIDI performance*
@@ -12,7 +8,11 @@
 
 **Aureine Music Box** is a real-time MIDI intelligence engine that listens, understands, and responds to musical input.
 
+<<<<<<< HEAD
 It transforms live performance into structured musical insight — revealing harmony, tonal direction, and expressive possibilities as you play.
+=======
+It transforms live performance into structured musical insight revealing harmony, tonal direction, and expressive possibilities as you play.
+>>>>>>> ac93b673e2063cf4f2c9bed644291dee9684f1c5
 
 Designed as part of **Aureine Audio Systems**, this project blends:
 
@@ -64,10 +64,18 @@ The interface is designed as a **musical observatory**, where sound becomes visi
 ## ♫ Controls
 
 **Keyboard Input**
+<<<<<<< HEAD
+=======
+
+>>>>>>> ac93b673e2063cf4f2c9bed644291dee9684f1c5
 A W S E D F T G Y H U J K → notes
 Z / X → octave shift
 Space → clear notes
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ac93b673e2063cf4f2c9bed644291dee9684f1c5
 ---
 
 ## ✧ Demo Constellations
@@ -93,14 +101,22 @@ Space → clear notes
 ## ♡ Inspiration
 
 Inspired by modern music technology tools used in professional environments  
+<<<<<<< HEAD
 such as **Yamaha, Ableton, and Native Instruments** —  
+=======
+such as **Yamaha, Ableton, and Native Instruments**  
+>>>>>>> ac93b673e2063cf4f2c9bed644291dee9684f1c5
 while maintaining a distinct **Aureine aesthetic identity**.
 
 ---
 
 ## ✧ Demo
 
+<<<<<<< HEAD
 🎥 *[Add your demo video here]*
+=======
+🎥 https://youtu.be/eQDCkgNJ8cs
+>>>>>>> ac93b673e2063cf4f2c9bed644291dee9684f1c5
 
 ---
 
