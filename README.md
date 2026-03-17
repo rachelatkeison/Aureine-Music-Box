@@ -98,15 +98,26 @@ while maintaining a distinct **Aureine aesthetic identity**.
 
 ## ✧ Demo
 
-🎥 *[Add your demo video here]*
+🎥 https://youtu.be/eQDCkgNJ8cs
 
 ---
 
 ## ✧ Screenshots
 
-![Interface](assets/screenshots/hero-ui.png)  
-![Chord Bloom](assets/screenshots/bloom-chord.png)  
-![Gesture Observatory](assets/screenshots/gesture-observatory-closeup.png)  
+### ✧ Interface
+![Interface](assets/screenshots/hero-ui.png)
+
+### ✧ Harmonic Bloom
+![Chord Bloom](assets/screenshots/bloom-chord.png)
+
+### ✧ Full System State
+![Full System](assets/screenshots/full-system.png)
+
+### ✧ Gesture Observatory
+![Gesture Observatory](assets/screenshots/gesture-observatory-closeup.png)
+
+### ✧ Tonal Orbit
+![Tonal Orbit](assets/screenshots/tonal-orbit-closeup.png)
 
 ---
 
