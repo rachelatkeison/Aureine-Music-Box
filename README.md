@@ -157,10 +157,10 @@ Displays note history and performance feedback
   <img src="assets/screenshots/gesture-observatory-closeup.png" width="800"/>
 </p>
 
-### ✧ Tonal Orbit
+### ✧ Dream Cadence
 
 <p align="center">
-  <img src="assets/screenshots/tonal-orbit-closeup.png" width="800"/>
+  <img src="assets/screenshots/dream-cadence.png" width="800"/>
 </p>
 
 ---
