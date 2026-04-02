@@ -225,7 +225,7 @@ Inspired by modern music technology tools used in professional environments such
 * Ableton
 * Native Instruments
 
-while maintaining a distinct **Aureine aesthetic identity**.
+while maintaining my distinct **Aureine musical identity**.
 
 ---
 
