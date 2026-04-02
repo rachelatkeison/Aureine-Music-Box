@@ -10,7 +10,7 @@
 
 ## ✧ Demo
 
-🎥 https://youtu.be/eQDCkgNJ8cs
+🎥 [![Aureine Live Demo](https://img.youtube.com/vi/eQDCkgNJ8cs/0.jpg)](https://www.youtube.com/watch?v=eQDCkgNJ8cs)
 
 ---
 
